@@ -1,0 +1,10 @@
+#IDE files
+.idea
+
+**/*.iml
+
+# Jar files
+*.jar
+*/target
+target
+dependency-reduced-pom.xml
